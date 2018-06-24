@@ -4,3 +4,5 @@ Green
 Blue
 Yellow
 Purple
+Orange
+Lemon
