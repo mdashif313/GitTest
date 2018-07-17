@@ -5,4 +5,5 @@ Blue
 Yellow
 Purple
 Orange
+Skyblue
 Lemon
